@@ -152,7 +152,7 @@ Suggested repository structure:
 Uber-Trip-Analysis/
 ├── README.md
 ├── data/
-│   └── uber_trip_data.csv
+│   └── dataset.zip
 ├── dashboard/
 │   └── Uber_Trip_Analysis.pbix
 └── screenshots/
@@ -161,7 +161,6 @@ Uber-Trip-Analysis/
     └── trip-details.png
 ```
 
-*The folder and file names above are suggestions. Include only the files you actually upload to your repository.*
 
 ## About This Project
 
